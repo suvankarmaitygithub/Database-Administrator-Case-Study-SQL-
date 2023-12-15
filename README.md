@@ -1,1 +1,1 @@
-# Database-Administrator-Case-Study-SQL-
+Objective: As a database administrator, I have use the data to answer a few questions about your customers, especially about the sales and profit coming from different states, money spent in marketing and various other factors such as COGS (Cost of Goods Sold), budget profit etc. Then plan on using these insights to help find out which items are being sold the most. 
